@@ -2,6 +2,8 @@
 layout: default
 ---
 
+ <h1 align="center">Jackson Houmani </h1>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
